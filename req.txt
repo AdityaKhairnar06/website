@@ -1,0 +1,10 @@
+to make live and beautiful portfolio website:
+
+milestones:
+1 make live contact forms to send details to gmail. done
+2 add css beauty
+3 add resume details
+4 host/launch website live
+5 link website link with qr code
+6 linkedin qr code on banner section
+
